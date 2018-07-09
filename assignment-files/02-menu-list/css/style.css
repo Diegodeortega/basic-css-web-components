@@ -1,0 +1,30 @@
+*{
+	box-sizing: border-box;
+	font-family: Avenir, sans;
+}
+
+nav {
+	border-collapse: collapse; 
+}
+
+div:hover {
+	color: #66CC99;
+}
+
+div {
+	color: grey;
+	border: 1px solid grey;
+	width: 30%;
+	height: 50px;
+	padding: 15px;
+	padding-left: 15px;
+}
+
+/*p {
+	padding;
+	margin-left: 7px;
+	margin-bottom: px;
+}
+
+
+*/

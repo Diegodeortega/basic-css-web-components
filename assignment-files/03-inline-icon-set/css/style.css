@@ -1,0 +1,14 @@
+*{
+	box-sizing: border-box;
+	font-family: sans-serif;
+}
+
+p {
+	color: grey;
+	font-size: 12px;
+}
+
+hr {
+	height: 3px;
+	background: black;
+} 

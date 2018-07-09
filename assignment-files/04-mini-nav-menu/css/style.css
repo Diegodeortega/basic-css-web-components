@@ -1,0 +1,80 @@
+*{
+	box-sizing: border-box;
+	font-family: Futura, sans;
+}
+
+body {
+	text-align: center;
+}
+
+hr {
+	height: 3px;
+	background-color: black;
+}
+
+p {
+	color: white;
+	font-weight: bold;
+	padding: 0;
+	margin-top: 8px;
+}
+
+.mood {
+	margin: 30px;
+	word-spacing: 10px;
+}
+
+.uppercase {
+	text-transform: uppercase;
+	display: inline-block;
+	font-weight: bold;
+}
+
+.menu {
+	width: 90%;
+	margin: 0;
+}
+
+.essays, .humor, .profiles, .culture, .galleries, .about {
+
+	width: 100px;
+	height: 35px;
+	float: left;
+	margin: 11px;
+	border: 1px;
+	background-color: rgb(205,92,92);
+	display: inline-block;
+}
+
+.search {
+	margin-top: 15px;
+	display: inline-block;
+	font-weight: bold;
+}
+
+/* 
+
+.menu {
+	width: 90%;
+	margin: 0;
+}
+
+p {
+	color: white;
+	font-weight: bold;
+	margin: 0;
+	padding: 0;
+	margin-top: 10px;
+	
+}
+
+.box {
+	width: 100px;
+	height: 35px;
+	float: left;
+	margin: 11px;
+	border: 1px;
+	background-color: rgb(205,92,92);
+	display: inline-block;
+}
+*/
